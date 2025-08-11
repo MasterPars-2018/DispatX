@@ -1,0 +1,6 @@
+@DispatX.WebApi_HostAddress = http://localhost:5170
+
+GET {{DispatX.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
